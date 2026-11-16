@@ -1,4 +1,4 @@
-# my-first-cloud-project# GCP Network with Terraform
+# GCP Network with Terraform
 
 A simple Google Cloud network built with Terraform (Infrastructure as Code).
 
